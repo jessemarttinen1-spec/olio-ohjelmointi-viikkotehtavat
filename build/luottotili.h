@@ -1,0 +1,18 @@
+#ifndef LUOTTOTILI_H
+#define LUOTTOTILI_H
+#include <string>
+#include "pankkitili.h"
+
+using namespace std;
+
+class Luottotili : public Pankkitili
+{
+public:
+    Luottotili(string nimi, double raja);
+    bool deposit(double) override;
+    bool withdraw(double) override;
+protected:
+    double luottoRaja = 0;
+};
+
+#endif // LUOTTOTILI_H
