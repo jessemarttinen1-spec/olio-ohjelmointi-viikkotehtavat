@@ -1,0 +1,7 @@
+C:/C-Projektit/olio-ohjelmointi-viikkotehtava5/build/CMakeFiles/olio-ohjelmointi-viikkotehtava5.dir
+C:/C-Projektit/olio-ohjelmointi-viikkotehtava5/build/CMakeFiles/edit_cache.dir
+C:/C-Projektit/olio-ohjelmointi-viikkotehtava5/build/CMakeFiles/rebuild_cache.dir
+C:/C-Projektit/olio-ohjelmointi-viikkotehtava5/build/CMakeFiles/list_install_components.dir
+C:/C-Projektit/olio-ohjelmointi-viikkotehtava5/build/CMakeFiles/install.dir
+C:/C-Projektit/olio-ohjelmointi-viikkotehtava5/build/CMakeFiles/install/local.dir
+C:/C-Projektit/olio-ohjelmointi-viikkotehtava5/build/CMakeFiles/install/strip.dir
